@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 598194f456f880a4f8a531d5975369af
+guid: 68a1de559c18a494ab73260fc265c8e7
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 1341315689221207215
-    second: Tung4-removebg-preview_0
+      213: 305100084530790099
+    second: TungTungSahur1_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,10 +113,10 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Tung4-removebg-preview_0
+      name: TungTungSahur1_0
       rect:
         serializedVersion: 2
-        x: 1
+        x: 0
         y: 0
         width: 47
         height: 64
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fa430b3438f4d9210800000000000000
-      internalID: 1341315689221207215
+      spriteID: 3de366f09eeeb3400800000000000000
+      internalID: 305100084530790099
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Tung4-removebg-preview_0: 1341315689221207215
+      TungTungSahur1_0: 305100084530790099
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

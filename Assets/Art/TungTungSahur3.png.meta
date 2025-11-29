@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 15a225dafe60ec84b8c401e355b88edb
+guid: 440db0192dc9bba43b4e41c6748d6a09
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -8787711026334571382
-    second: Tung2_0
+      213: -5242228587118151687
+    second: TungTungSahur3_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,12 +113,12 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Tung2_0
+      name: TungTungSahur3_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 64
+        width: 47
         height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a846b8e7167cb0680800000000000000
-      internalID: -8787711026334571382
+      spriteID: 9f7bc61efdcdf37b0800000000000000
+      internalID: -5242228587118151687
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Tung2_0: -8787711026334571382
+      TungTungSahur3_0: -5242228587118151687
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
