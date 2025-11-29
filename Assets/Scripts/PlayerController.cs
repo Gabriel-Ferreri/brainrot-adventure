@@ -26,14 +26,7 @@ public class PlayerController : MonoBehaviour
     void Update()
     {
         
-        isGrounded = Physics2D.OverlapCircle(groundCheck.position, checkRadius, groundLayer);
-
-        // Jump when pressing space
-        if (Input.GetKeyDown(KeyCode.Space) && isGrounded)
-        {
-            rb.linearVelocity = new Vector2(rb.linearVelocity.x, 0f);  // reset vertical speed
-            rb.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
-        }
+       
 
         if(Keyboard.current.leftArrowKey.isPressed)
         {
