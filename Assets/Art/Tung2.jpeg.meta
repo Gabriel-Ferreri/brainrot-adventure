@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: b4a2eea83f1804e4ab149b24108c7f21
+guid: 15a225dafe60ec84b8c401e355b88edb
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 3349391187094723686
-    second: Cloud_0
+      213: -8787711026334571382
+    second: Tung2_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -51,7 +51,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 64
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -113,7 +113,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Cloud_0
+      name: Tung2_0
       rect:
         serializedVersion: 2
         x: 0
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 66cda90f98d6b7e20800000000000000
-      internalID: 3349391187094723686
+      spriteID: a846b8e7167cb0680800000000000000
+      internalID: -8787711026334571382
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Cloud_0: 3349391187094723686
+      Tung2_0: -8787711026334571382
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

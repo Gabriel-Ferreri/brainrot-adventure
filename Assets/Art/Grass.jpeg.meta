@@ -1,23 +1,10 @@
 fileFormatVersion: 2
-<<<<<<< HEAD
-guid: c01dcb4b115f3154db92b4cbed03f23c
-=======
-guid: 966ed01768de718468818cdea990a3d8
->>>>>>> 6329a9e99cb4188b7f15bcbbf5a0c1fc0a73dcc9
+guid: ea3938c40be39e846bd8a63492505b84
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -6545802022131927205
-    second: TungTungSahur_0
-  - first:
-      213: -994121582711636564
-    second: TungTungSahur_1
-  - first:
-      213: 5081458172737351839
-    second: TungTungSahur_2
-  - first:
-      213: 1886038492525854868
-    second: TungTungSahur_3
+      213: -1347532211411968617
+    second: Grass_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -64,7 +51,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 64
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -126,34 +113,12 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: TungTungSahur_0
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 63
-        width: 47
-        height: 65
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b57fac4fdb3a825a0800000000000000
-      internalID: -6545802022131927205
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TungTungSahur_1
+      name: Grass_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 47
+        width: 64
         height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -163,52 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: cad7ce600bb2432f0800000000000000
-      internalID: -994121582711636564
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TungTungSahur_2
-      rect:
-        serializedVersion: 2
-        x: 63
-        y: 63
-        width: 50
-        height: 65
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f90f30f0947f48640800000000000000
-      internalID: 5081458172737351839
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TungTungSahur_3
-      rect:
-        serializedVersion: 2
-        x: 65
-        y: 0
-        width: 46
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 49087bb240e8c2a10800000000000000
-      internalID: 1886038492525854868
+      spriteID: 79d946fd79a9c4de0800000000000000
+      internalID: -1347532211411968617
       vertices: []
       indices: 
       edges: []
@@ -227,10 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      TungTungSahur_0: -6545802022131927205
-      TungTungSahur_1: -994121582711636564
-      TungTungSahur_2: 5081458172737351839
-      TungTungSahur_3: 1886038492525854868
+      Grass_0: -1347532211411968617
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

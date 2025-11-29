@@ -1,14 +1,10 @@
 fileFormatVersion: 2
-<<<<<<< HEAD
-guid: 21b403c33b0e9c74284c75930e445d7b
-=======
-guid: 1343d696a819a66419ba31b5211aaf5f
->>>>>>> 6329a9e99cb4188b7f15bcbbf5a0c1fc0a73dcc9
+guid: 598194f456f880a4f8a531d5975369af
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2410671940745902572
-    second: Sky_0
+      213: 1341315689221207215
+    second: Tung4-removebg-preview_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -55,11 +51,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-<<<<<<< HEAD
-  spritePixelsToUnits: 64
-=======
   spritePixelsToUnits: 100
->>>>>>> 6329a9e99cb4188b7f15bcbbf5a0c1fc0a73dcc9
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -121,12 +113,12 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Sky_0
+      name: Tung4-removebg-preview_0
       rect:
         serializedVersion: 2
-        x: 0
+        x: 1
         y: 0
-        width: 64
+        width: 47
         height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -136,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ce9392a9b5d647120800000000000000
-      internalID: 2410671940745902572
+      spriteID: fa430b3438f4d9210800000000000000
+      internalID: 1341315689221207215
       vertices: []
       indices: 
       edges: []
@@ -156,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Sky_0: 2410671940745902572
+      Tung4-removebg-preview_0: 1341315689221207215
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
